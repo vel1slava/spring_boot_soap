@@ -1,0 +1,8 @@
+org\example\first\FirstOperationRequest.class
+org\example\first\package-info.class
+org\example\first\ObjectFactory.class
+org\example\first\FirstOperation.class
+org\example\first\FirstService.class
+org\example\first\FirstOperationResponse.class
+org\example\first\Application.class
+org\example\first\FirstServicePortType.class
